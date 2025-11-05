@@ -6,3 +6,4 @@
 5.  fun project: fireworks -   Link: [Live Demo](https://shweta-nigam.github.io/Projects/JS_Basic_Project(24-25)/05_firework/) 
 6. weather app - Link: [Live Demo](https://shweta-nigam.github.io/Projects/JS_Basic_Project(24-25)/06_weather_site/) 
 7. video listing app - Link :[Live Demo](https://shweta-nigam.github.io/Projects/JS_Basic_Project(24-25)/07_video_listing_site/)
+8. markdown previewer - Link :[Live Demo](https://shweta-nigam.github.io/Projects/JS_Basic_Project(24-25)/08_markdown_previewer)
